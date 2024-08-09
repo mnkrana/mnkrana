@@ -29,7 +29,7 @@ Join me on LinkedIn or discord.
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="55" height="55"/> 
 
 
-  
+<!--  
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=mnkrana&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -38,6 +38,7 @@ Join me on LinkedIn or discord.
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mnkrana&show_icons=true&theme=vision-friendly-dark">
+  -->
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkrana&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
