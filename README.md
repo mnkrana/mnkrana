@@ -8,7 +8,7 @@ Currently, I'm delving into the realms of web3 and building a PVP multiplayer pl
 ### Social media: 📡    
 Join me on LinkedIn or discord.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankrana) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/684363477191753730)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankrana) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/684363477191753730) [![Telegram Badge](https://img.shields.io/badge/Telegram-0065F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mnkrana)
 
 ### Working on: 🚀
 
