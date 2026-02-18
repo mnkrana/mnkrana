@@ -40,11 +40,6 @@ Join me on LinkedIn or discord.
 |----------|----------|----------|----------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" title="Mac" alt="Mac" width="50" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" title="iOS" alt="iOS" width="50" height="55"/>
 
-<p>    
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkrana&layout=compact&theme=radical&langs_count=20&exclude_repo=speech-to-text-client">
-</p>
-
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mnkrana&style=for-the-badge&color=orange" alt=""/>
 </div>
