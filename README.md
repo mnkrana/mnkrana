@@ -1,9 +1,25 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mnkrana&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### About Me:    
-I'm a passionate software engineer with a knack for game development, specializing in multiplayer games and AWS lambda functions.
+AI Systems & Infrastructure Engineer building autonomous agents, real-time multiplayer systems, and scalable backend platforms.
 
-Currently, I'm delving into the realms of web3 and building a PVP multiplayer platform, where I'm actively engaged in crafting and analyzing smart contracts, vertically and horizontally scalable game servers. 
+13+ years across game development, distributed systems, cloud infrastructure, and blockchain.
+
+Currently building competitive AI-driven multiplayer platforms — combining LLM agents, RAG pipelines, Web3 mechanics, and horizontally scalable game servers.
+
+Core Areas
+
+LLM agents, RAG systems, autonomous workflows
+
+Distributed backend systems (Go, Python)
+
+Real-time multiplayer infrastructure
+
+Model deployment & AI infra orchestration
+
+AWS, Docker, scalable cloud architectures
+
+Smart contracts & blockchain indexing
+
+Focused on building performant, scalable systems at the intersection of AI, gaming, and decentralized technology. 
 
 ### Social media: 📡    
 Join me on LinkedIn or discord.
