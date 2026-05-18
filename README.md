@@ -2,7 +2,7 @@
 
 # Mayank Rana
 
-**AI Systems & Infrastructure Engineer**
+**AI Engineer & Game Developer**
 
 Building autonomous agents, real-time multiplayer systems, and scalable backend platforms at the intersection of AI, gaming, and decentralized technology.
 
