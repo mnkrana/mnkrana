@@ -35,7 +35,7 @@ Building autonomous agents, real-time multiplayer systems, and scalable backend 
 
 | Period | Company | What I Built |
 |---|---|---|
-| **Aug 2025 – Present** | [Ingenious Minds](https://igmind.com) *(Co-Founder & CTO)*| Intelligent, scalable systems — neuroscience-driven interactive experiences |
+| **Aug 2025 – Present** | [Tubelight Apps](https://tubelightapps.com) *(Co-Founder & CTO)*| AI agents for learning & creation — DocuChat, Mentor, Illustra, Story, and more. |
 | **Jan 2024 – Present** | [Mithya Games](https://mithyagames.com) *(Founder & CTO)* | Multiplayer blockchain games with real-time gameplay & Web3 integration |
 | **Sep 2024 – Mar 2025** | [Shiba Inu](https://shib.io) | Web3 gaming infrastructure — NFT ecosystem, smart contracts, Shibarium |
 | **Aug 2022 – Dec 2023** | [Emperia VR](https://emperiavr.com) | Virtual retail experiences & AR apps for Vision Pro, iOS, Android |
